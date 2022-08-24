@@ -8,3 +8,8 @@
 	url = https://github.com/bodenmillergroup/cytomapper
 	shallow = true
 	registered = true
+[submodule "imcRtools"]
+	path = imcRtools
+	url = https://github.com/bodenmillergroup/imcrtools
+	shallow = true
+	registered = true
