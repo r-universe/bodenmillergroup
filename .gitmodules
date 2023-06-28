@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cytomapper"]
 	path = cytomapper
 	url = https://github.com/bodenmillergroup/cytomapper
-	shallow = true
-	registered = true
 [submodule "cytoviewer"]
 	path = cytoviewer
 	url = https://github.com/bodenmillergroup/cytoviewer
-	shallow = true
-	registered = true
 [submodule "imcRtools"]
 	path = imcRtools
 	url = https://github.com/bodenmillergroup/imcrtools
-	shallow = true
-	registered = true
